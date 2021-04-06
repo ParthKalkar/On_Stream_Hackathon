@@ -6,3 +6,5 @@ Includes implementation of an andriod app and self made VR movie.
 To test the project, Download and Install the APK
 Using the VR glasses.
 
+Link for downloading the apk - https://disk.yandex.ru/d/LU-vT1R-JyLMDA
+
